@@ -28,6 +28,7 @@ rope = "^0.14.0"
 mypy = "^0.761"
 black = "^19.10b0"
 ipython = "^7.10.2"
+coverage = "^5.1"
 
 [tool.poetry.extras]
 allennlp = ["allennlp"]
